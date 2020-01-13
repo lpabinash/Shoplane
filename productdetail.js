@@ -92,7 +92,6 @@ function productdetail(Obj){
                 
                  for(var j=0;j<productToBuy.length;j++) {
                 if(productToBuy[j].id === Obj.id) {
-                    // var pos = j;
                     break;
                 }
             }
