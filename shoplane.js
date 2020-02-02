@@ -6,7 +6,7 @@ $(document).ready(function(){
         slidesToScroll:1,
         dots:true,
         autoplay:true,
-        autoplaySpeed:1500,
+        autoplaySpeed:1500
         
     });
   })
